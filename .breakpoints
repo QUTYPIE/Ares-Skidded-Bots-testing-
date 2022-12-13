@@ -1,0 +1,52 @@
+{
+  "files": {
+    "commands/giveaway/gend.js": [
+      {
+        "id": "7377ff95-e560-46eb-9ad1-db9a1b19888b",
+        "line": 17,
+        "version": 1,
+        "index": 692
+      }
+    ],
+    "core/settings.js": [
+      {
+        "id": "49be5e28-b658-45c6-a17d-7ccc834edd3e",
+        "line": 25,
+        "version": 1,
+        "index": 563
+      }
+    ],
+    "database/connect.js": [
+      {
+        "id": "922ea607-4cf2-4da1-b9be-4a4a173d930c",
+        "line": 16,
+        "version": 1,
+        "index": 342
+      }
+    ],
+    "events/antichanneldelete.js": [
+      {
+        "id": "1576ace0-374c-4841-8755-7d0ba0e28069",
+        "line": 25,
+        "version": 1,
+        "index": 936
+      }
+    ],
+    "events/guildLogs.js": [
+      {
+        "id": "e02ed1ce-401c-444a-b3f5-7d0458f867fb",
+        "line": 47,
+        "version": 1,
+        "index": 2385
+      }
+    ],
+    "handler/index.js": [
+      {
+        "id": "71c9071c-8c5c-475d-bee6-e222bd7c2dce",
+        "line": 18,
+        "version": 1,
+        "index": 605
+      }
+    ]
+  }
+}

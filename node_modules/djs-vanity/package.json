@@ -1,0 +1,32 @@
+{
+  "name": "djs-vanity",
+  "version": "1.0.6",
+  "description": "a package which you can use to change server vanity",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^2.6.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmBodkhe1/djs-vanity.git"
+  },
+  "author": "Om Bodkhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmBodkhe1/djs-vanity/issues"
+  },
+  "homepage": "https://github.com/OmBodkhe1/djs-vanity#readme",
+  "keywords": [
+    "djs-vanity",
+    "djs",
+    "discord.js",
+    "discord.js-vanity",
+    "discord-vanity",
+    "discord",
+    "vanity-discord"
+  ]
+}
